@@ -1,0 +1,27 @@
+img {
+    height: 400px;
+    width: 300px;
+    margin-left:100px;
+    margin-top: 80px;
+    margin:"rounded float-end";
+    img-align: center;
+}
+
+
+.introduction {
+    font-family: 'Times New Roman', Courier, monospace;
+    font-size: 20px;
+    color: saddlebrown;
+    margin: 20px;
+    text-align: justify;
+}
+
+.rika {
+    font-size: 35px;
+    color: maroon;
+    font-family: 'Times new Roman', Courier, monospace;
+    padding-bottom: 5px;
+    padding-top: 150px;
+    text-align: center;
+    
+}
